@@ -1,1 +1,25 @@
+# ============================================
+# .gitignore - juegodenaves (C++ / Windows / VS Code)
+# ============================================
+
+# Ejecutables y binarios compilados
+*.exe
+*.out
+*.app
+
+# Archivos objeto y bibliotecas intermedias
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# Depuración y símbolos
+*.pdb
+*.ilk
+*.exp
+*.gch
+*.pch
 
